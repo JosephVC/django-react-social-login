@@ -1,0 +1,5 @@
+Google OAuth creds
+
+Client ID:  21342846534-9u5tvglqmvfvn2k87ds6nthbcft8u5sc.apps.googleusercontent.com
+
+Client Secret Key:  B3mlmxebBzCIj2rSnSTjVAGt
